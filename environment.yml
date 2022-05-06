@@ -1,0 +1,8 @@
+name: egm722
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - rasterio
+C:\Users\aaturne1\Anaconda3\envs\ndvi 
