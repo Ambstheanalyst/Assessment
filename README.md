@@ -10,17 +10,19 @@ The code in this How-to Guide is sourced from Hatari Labs’s ‘NDVI calculatio
 <h2>Set-up / Installation</h2>
 <br>
 Data
-Prior to installation and running this code, test data will need to be retrieved. Landsat imagery provided in this How-to Guide is sourced from the USGS EarthExplorer user interface. Frames selected were from 2003 (Landsat 5) – which is prior to the founding of AgroSB Agropecuária SA and building of Lagoa do Triunfo ranch in 2005 and 2021 (Landsat 8) to assess the area’s present day NDVI. 
+Prior to installation and running this code, test data will need to be retrieved. Landsat imagery provided in this How-to Guide is sourced from the USGS EarthExplorer user interface. Frames selected were from 2003 (Landsat 5 Thematic Mapper satellite) and 2021 (Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) to assess the area’s present day NDVI. 
+<br><br>
 Rasters were georeferenced and clipped to the same extents using ArcGIS Pro’s Georeferencing and Extract by Mask tools. 
-<br>
+<br><br>
 Modules & Dependencies 
+<br>
 This code uses the following modules and their respective dependences: 
-NumPy 
-Rasterio with the following dependencies: 
-     -Rasterio.plot 
-     -Rasterio.features
-Matplotlib with the following dependencies: 
-     -matplotlib.pyplot
-     -matplitlib notebook
-     -matplotlib inline 
-OS
+<br>NumPy 
+<br>Rasterio with the following dependencies: 
+     <br>-Rasterio.plot 
+     <br>-Rasterio.features
+<br>Matplotlib with the following dependencies: 
+     <br>-matplotlib.pyplot
+     <br>-matplitlib notebook
+     <br>-matplotlib inline 
+<br>OS
