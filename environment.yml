@@ -4,5 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - numpy
   - rasterio
 C:\Users\aaturne1\Anaconda3\envs\ndvi_env
