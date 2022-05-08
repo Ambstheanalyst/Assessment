@@ -14,8 +14,8 @@ Prior to installation and running this code, test data will need to be retrieved
 <br><br>
 Rasters were georeferenced and clipped to the same extents using ArcGIS Pro’s Georeferencing and Extract by Mask tools. 
 <br><br>
-<b>Modules & Dependencies</b>
-<br><b>NumPy</b>
+<b>Modules & Dependencies:</b>
+<br><br><b>NumPy</b>
 <br><b>Rasterio</b> with the following dependencies: 
      <br>-Rasterio.plot
      <br>-Rasterio.features
