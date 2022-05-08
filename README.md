@@ -1,5 +1,5 @@
 <h2>How-to Guide on calculating the Normalized Difference Vegetation of acquired Landsat imagery as a proxy for assessing vegetative health</h2>
-<br><br>
+
 <h3>Introduction</h3>
 This How-to Guide demonstrates how to use Python programming language to calculate a study area’s Normalized Difference Vegetation Index from  acquired Landsat imagery. 
 <br>
