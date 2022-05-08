@@ -13,7 +13,7 @@ The code in this How-to Guide is sourced from Hatari Labs’s ‘NDVI calculatio
 Prior to installation and running this code, test data will need to be retrieved. Landsat imagery provided in this How-to Guide is sourced from the USGS EarthExplorer user interface. Frames selected were from 2003 (Landsat 5 Thematic Mapper satellite) and 2021 (Landsat 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) to assess the area’s present day NDVI. 
 <br><br>
 Rasters were georeferenced and clipped to the same extents using ArcGIS Pro’s Georeferencing and Extract by Mask tools. 
-<br><br>
+<br><br><br>
 <b>Modules & Dependencies:</b>
 <br><br><b>NumPy</b>
 <br><b>Rasterio</b> with the following dependencies: 
